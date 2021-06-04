@@ -1,5 +1,5 @@
 # UAV-bug-set-and-taxonomy
-The link to our replication package is：[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4898869.svg)](https://doi.org/10.5281/zenodo.4898869)
+The link to our replication package is：[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4898868.svg)](https://doi.org/10.5281/zenodo.4898868)
 
 This data set contains 569 real world bugs, 168 UAV-specific bugs and their taxonomy. 
 Our replication package consists of two maim folders：bugSet and bugTaxonomy
